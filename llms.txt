@@ -1,0 +1,18 @@
+# Free AI Portrait Pack
+
+> Free, commercially usable AI-generated fashion portraits. Four images, JPEG 1728 × 2304 px (2K, 3:4), sRGB, with a sample license for one commercial project. No account or email required. Built by Lumen Portraits (Yiwu Zeda E-commerce Co., Ltd.).
+
+## Facts
+
+- Images: 4, at `images/01.jpg` … `images/04.jpg`
+- Resolution: 1728 × 2304 px (2K, 3:4 portrait), sRGB
+- Price: free
+- License: one personal or commercial project per download; no resale as stock; no AI training datasets
+- Origin: AI-generated (Jimeng / Seedream), retouched; no real person depicted
+- Paid collections: https://lumenportraits.sell.app (36 themed packs = 144 images; 7 curated collections = 52 images; up to 3 commercial projects per purchase)
+
+## Pages
+
+- [Landing page](https://a19200332.github.io/free-ai-portraits/)
+- [License](https://a19200332.github.io/free-ai-portraits/LICENSE.md)
+- [Paid store](https://lumenportraits.sell.app/)
